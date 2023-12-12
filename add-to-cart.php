@@ -20,7 +20,7 @@
         echo "Add Product Successfully";
     
     } else {
-        echo "Not Found Product";faed
+        echo "Not Found Product";
     }
     
    }
